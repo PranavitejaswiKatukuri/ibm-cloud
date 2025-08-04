@@ -51,5 +51,3 @@ This system provides an AI-driven approach to:
   - Machine Learning(Snap Logistic Regression)
   - Python(for dataset preparation)
   - Power System Fault Data
-
-## **7. Repository Structure**
